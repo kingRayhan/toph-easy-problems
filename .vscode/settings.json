@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.twig": "html",
+    "*.liquid": "html",
+    "*.conf": "nginx",
+    "*.tcc": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "algorithm": "cpp",
+    "string": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
