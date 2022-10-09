@@ -9,3 +9,4 @@
 - ASCII Progress Bar [Link](https://toph.co/p/ascii-progress-bar) - [Solution](./ASCII-Progress-Bar.cpp)
 - Little Matrix Multiplication [Link](https://toph.co/p/little-matrix-multiplication) - [Solution](./Little-Matrix-Multiplication.cpp)
 - Fair Distribution [Link](https://toph.co/p/fair-distribution) - [Solution](./Fair-Distribution.cpp)
+- ICPC Is Coming in Hot! [Link](https://toph.co/p/icpc-is-coming-in-hot) - [Solution](./ICPC-Is-Coming-in-Hot.cpp)
